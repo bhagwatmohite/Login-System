@@ -6,7 +6,7 @@ login system using django
 
 1. clone this project in your local environment.
 
-    ``` git clone https://github.com/ashu1281/login_system.git ```
+    ``` git clone https://github.com/bhagwatmohite/Login-System.git ```
 
 2. go to that folder
 
